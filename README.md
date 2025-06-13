@@ -7,7 +7,6 @@ This project demonstrates how to predict **Customer Lifetime Value (CLTV)** us
 
 We use a real-world e-commerce dataset, engineer key features like Recency and Frequency, and compare models such as **log-linear regression** and **XGBoost**. The result is a **reusable CLTV prediction function**.
 
----
 
 ## **📁 Dataset**
 
@@ -17,7 +16,6 @@ Due to GitHub file size limits, the dataset is not included here.
 
 📥 You can [download the original Excel file from UCI](https://archive.ics.uci.edu/ml/machine-learning-databases/00502/online_retail_II.xlsx).
 
----
 
 ## **📊 Key Steps in the Notebook**
 
@@ -57,8 +55,6 @@ Due to GitHub file size limits, the dataset is not included here.
     
     Highlight how the model helps estimate CLTV instantly without waiting
     
-
----
 
 ## **🔗 Notebook Structure**
 
