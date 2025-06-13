@@ -1,4 +1,3 @@
-# python-cltv-machine-learning
 # **Predicting Customer Lifetime Value (CLTV) with Machine Learning**
 
 ## **📄 Overview**
