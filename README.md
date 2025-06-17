@@ -53,6 +53,20 @@ Due to GitHub file size limits, the dataset is not included here.
 9. **Business Summary**
     
     Highlight how the model helps estimate CLTV instantly without waiting
+
+## **🔍 What Time Period Does CLTV Represent?**
+
+In this project, CLTV predictions cover a 2-year period, because the model was trained on 2 years of transaction data.
+
+It’s important to note:
+
+- Even if a customer has only been active for a few months, the model still estimates their total expected value over 2 years, based on patterns learned from similar customers.
+
+- If you train the model on 5 years of data, then predictions will represent 5 years of expected value instead.
+
+In short: CLTV is not fixed by customer activity, but by the time span of the training data.
+
+This helps you interpret model results accurately and align them with your business timeline.
     
 
 ## **🔗 Notebook Structure**
